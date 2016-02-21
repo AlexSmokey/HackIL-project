@@ -1,0 +1,22 @@
+﻿#mainStyle{
+    text-align:center;
+}
+
+#songlist{
+    text-align:center;
+}
+
+#exportButton {
+    font-size:1.0em;
+    border-radius:40px;
+    background-color: springgreen;
+    margin-left:20px;
+}
+#export {
+    font-size:3.5em;
+    border-radius:10px;
+    
+}
+#top {
+    font-size: 60px;
+}
